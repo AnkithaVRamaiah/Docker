@@ -3,7 +3,7 @@ What: Docker is a platform that enables developers to build, ship, and run appli
 Why: Docker simplifies the deployment of applications by packaging them and their dependencies into containers, ensuring consistency across different environments (development, staging, production). It improves efficiency, portability, and resource utilization.    
 
 # Container            
-What: A container is a lightweight, standalone, and executable package that includes everything needed to run a piece of software, such as the code, runtime, libraries, and system tools. 
+What: A container is a lightweight, standalone, and executable package that includes everything needed to run a piece of software, such as the code, runtime, libraries, and system tools.  
 Why: Containers provide a consistent and isolated environment for applications, eliminating the "it works on my machine" problem. They are faster to start and require fewer resources compared to traditional virtual machines. 
 
 # Lifecycle of a Docker Container             
